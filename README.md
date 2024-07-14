@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **PHP | Laravel | WEB**
+- 💬 Ask me about **PHP | Laravel | Mysql | Scss | HTML | CSS | Bootstrap**
 
 - 📫 How to reach me **maroofsultan17@gmail.com**
 
