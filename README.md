@@ -38,11 +38,12 @@ Full-Stack Engineer with 3+ years building production web applications across Sa
 
 ---
 
+### GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maroofsultan17&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff" width="100%" />
+
+---
+
 ### GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=maroofsultan17&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maroofsultan17&theme=dark&hide_border=true&background=0d1117" width="48%" />
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maroofsultan17&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="40%" />
+<img src="https://streak-stats.demolab.com/?user=maroofsultan17&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" width="100%" />
