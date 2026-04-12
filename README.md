@@ -1,51 +1,48 @@
-<h1 align="center">Hi 👋, I'm MAROOF SULTAN</h1>
-<h3 align="center">Craze of Programming & innovation.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maroofsultan17&label=Profile%20views&color=0e75b6&style=flat" alt="maroofsultan17" /> </p>
+<h1>Maroof Sultan</h1>
+<p>Full-Stack Engineer &nbsp;·&nbsp; Laravel · Symfony · NestJS · REST APIs · SaaS & eCommerce</p>
 
-- 🌱 I’m currently learning **Laravel**
-
-- 💬 Ask me about **PHP | Laravel | Mysql | Scss | HTML | CSS | Bootstrap**
-
-- 📫 How to reach me **maroofsultan17@gmail.com**
-
-- ⚡ Fun fact **I think I'm Funny.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maroof sultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maroof sultan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/maroof sultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="maroof sultan" height="30" width="40" /></a>
-<a href="https://fb.com/maroof sultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maroof sultan" height="30" width="40" /></a>
+<p>
+  <a href="https://maroof-portfolio-rose.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/maroofsultan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:maroofsultan.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=maroofsultan17&style=for-the-badge&color=0e75b6" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> 
-  </a>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
+---
+
+Full-Stack Engineer with 3+ years building production web applications across SaaS, eCommerce, and enterprise platforms. Currently at **AlphaSoft360** — a product-based company delivering scalable enterprise solutions for global clients. Strong background in Laravel, Symfony, NestJS, and modern frontend stacks. Open to new opportunities.
+
+- 💼 Software Engineer @ **AlphaSoft360** *(Mar 2025 – Present)*
+- 🏢 Full-Stack Developer @ **Hidden Logics** *(Part-time)*
+- 🎓 BSc Computer Science — **COMSATS University Islamabad** *(2021–2025)*
+- 🏅 **Microsoft Certified: Azure AI Fundamentals** — Dec 2024
+- 🚀 Project Presenter @ **National Incubation Center Lahore** *(LUMS, 2020)*
+- 📫 maroofsultan.dev@gmail.com
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="38" height="38" title="PHP"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="38" height="38" title="Laravel"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" width="38" height="38" title="Symfony"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="38" height="38" title="NestJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="38" height="38" title="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" height="38" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="38" height="38" title="MySQL"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="38" height="38" title="Azure"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="38" height="38" title="Linux"/>
 </p>
 
+---
 
+### GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maroofsultan17&show_icons=true&locale=en" alt="maroofsultan17" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=maroofsultan17&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maroofsultan17&theme=dark&hide_border=true&background=0d1117" width="48%" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maroofsultan17&" alt="maroofsultan17" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maroofsultan17&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="40%" />
